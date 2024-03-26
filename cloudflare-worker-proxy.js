@@ -1,5 +1,7 @@
 // 或者复制代码到 Worker 中并部署,使用自己的域名代替 api.openai.com
+// 详见：https://github.com/noobnooc/noobnooc/discussions/9
 // Website you intended to retrieve for users.
+
 const upstream = 'api.openai.com'
 
 // Custom pathname for the upstream website.
